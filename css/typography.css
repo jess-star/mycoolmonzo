@@ -1,0 +1,35 @@
+.navigation a, .box {
+    font-size: var(--normal);
+}
+
+.text1 {
+    font-size: var(--middle1);
+}
+
+.text2, .col3, .navigation2 a {
+    font-size: var(--normal2);   
+}
+
+h4 {
+    font-size: var(--normal3); 
+    font-weight: 700;   
+}
+
+h3 {
+    font-size: var(--middle2);    
+}
+
+h2 {
+    font-size: var(--large1);    
+}
+
+h1 {
+    font-size: var(--large2);    
+}
+
+.h1, .h2, .h3 {
+    font-weight: 900;
+}
+    
+    
+    
