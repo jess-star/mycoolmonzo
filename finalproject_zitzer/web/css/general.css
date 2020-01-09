@@ -1,0 +1,33 @@
+/* Base */
+
+* {
+  box-sizing: border-box;
+}
+
+/* Typography */
+
+body {
+  font-family: 'Lato', sans-serif;
+  line-height: 1.5;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: var(--white);
+}
+
+h2 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+
+h4 {
+  padding-bottom: 20px;
+}
+
+/* … */
